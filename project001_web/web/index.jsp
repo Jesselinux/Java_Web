@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  这里仅仅是一个样例，请切换至您需要的特殊功能页面。
   </body>
 </html>
